@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ballad of bold Robin Hood: shewing his birth, breedings, valour and marriage, at Titbury Bull-running: calculated for the meridian of Staffordshire, but may serve for Derbyshire or Kent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04544</idno>
+            <idno type="STC">Wing N562</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[360]</idno>
+            <idno type="EEBO-CITATION">99884418</idno>
+            <idno type="PROQUEST">ocm99884418</idno>
+            <idno type="VID">183106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183106)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[190])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ballad of bold Robin Hood: shewing his birth, breedings, valour and marriage, at Titbury Bull-running: calculated for the meridian of Staffordshire, but may serve for Derbyshire or Kent.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for W.O. and are to be sold by the booksellers.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Kind gentlemen will you be patient a while ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Robin Hood (Legendary character) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="360" facs="tcp:183106:1" rendition="simple:additions"/>
+            <head>A New Ballad of bold <hi>ROBIN HOOD:</hi> SHEWING His Birth, Breeding, Valour and Marriage, at <hi>Titbury</hi> Bull-running: Calculated for the Meridi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Scaffordſhire,</hi> but may ſerve for <hi>Derbyſhire</hi> or <hi>Kent.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>depiction of Robin Hood with his longbow</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>KInd Gentlemen will you be patient a while.</l>
+               <l>Ay, and then y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ſhall hear anon,</l>
+               <l>A very good Ballad of bold <hi>Robin Hood,</hi>
+               </l>
+               <l>and of his Man brave Little <hi>John.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>Lockſly</hi> Town in merry <hi>Nottinghamſhire,</hi>
+               </l>
+               <l>in merry ſweet <hi>Lockſly</hi> Town;</l>
+               <l>There bold <hi>Robin Hood</hi> he was born and was bred</l>
+               <l>bold <hi>Robin</hi> of famous renown.</l>
+            </lg>
+            <lg>
+               <l>The Father of <hi>Robin</hi> a Forreſter was,</l>
+               <l>and he ſhot in a luſty long bow,</l>
+               <l>Two North Country miles and an inch at a ſhot,</l>
+               <l>as the <hi>Pinder</hi> of <hi>Wakefield</hi> does know.</l>
+            </lg>
+            <lg>
+               <l>For he brought <hi>Adam Bell,</hi> and <hi>Clim</hi> of the <hi>Clugh,</hi>
+               </l>
+               <l>and <hi>William a Clowdel-le;</hi>
+               </l>
+               <l>To ſhoot with our Forreſter for forty mark,</l>
+               <l>and the Forreſter beat them all three.</l>
+            </lg>
+            <lg>
+               <l>His Mother was Neece to the <hi>Coventry</hi> Knight,</l>
+               <l>which <hi>Warwickſhire</hi> Men call Sir <hi>Guy;</hi>
+               </l>
+               <l>For he ſlew the blew bore that hangs up at the gate,</l>
+               <l>or mine Hoſt of the Bull tells a lye.</l>
+            </lg>
+            <lg>
+               <l>Her Brother was <hi>Gamwel</hi> of great <hi>Gamwel</hi>-hall,</l>
+               <l>and a noble Houſe-keeper was he,</l>
+               <l>Ay, as ever broke bread in ſweet <hi>Nottinghamſhire,</hi>
+               </l>
+               <l>and a 'Squire of famous degree.</l>
+            </lg>
+            <lg>
+               <l>The Mother of <hi>Robin</hi> ſaid to her Husband,</l>
+               <l>My Honey, my Love, and my Dear;</l>
+               <l>Let <hi>Robin</hi> and I ride this morning to <hi>Gamwel,</hi>
+               </l>
+               <l>to taſte of my Brother's good cheer.</l>
+            </lg>
+            <lg>
+               <l>And he ſaid, I grant thee thy boon, gentle <hi>Joan,</hi>
+               </l>
+               <l>take one of my Horſes I pray:</l>
+               <l>The Sun is a riſing, and therefore make haſte,</l>
+               <l>for to morrow is Chriſtmas-day.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Robin Hood</hi>'s Father's grey gelding was brought</l>
+               <l>and ſadled and bridled was he,</l>
+               <l>God-wot, a blew Bonnet, his new ſuit of cloaths,</l>
+               <l>and a Cloak that did reach to his knee.</l>
+            </lg>
+            <lg>
+               <l>She got on her Holy-day kirtle and gown,</l>
+               <l>they were of a light <hi>Lincoln</hi> green,</l>
+               <l>The cloath was home ſpun, but for colour and make</l>
+               <l>it might a beſeem'd our Queen.</l>
+            </lg>
+            <lg>
+               <l>And then <hi>Robin</hi> got on his basket-hilt ſword,</l>
+               <l>and a dagger on his tother ſide:</l>
+               <l>And ſaid, My dear Mother, let's haſte to be gone,</l>
+               <l>we have forty long miles to ride.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Robin</hi> had mounted his Gelding ſo grey,</l>
+               <l>his Father without any trouble,</l>
+               <l>Set her up behind him, and bad her not fear,</l>
+               <l>for his gelding has oft carried double.</l>
+            </lg>
+            <lg>
+               <l>And when ſhe was ſettled, they rode to their Neigh<g ref="char:EOLhyphen"/>bours<g ref="char:punc">▪</g>
+               </l>
+               <l>and drank and ſhook hands with them all:</l>
+               <l>And then <hi>Robin</hi> gallopt and never gave o're</l>
+               <l>till they lighted at <hi>Gamwel</hi>-hall.</l>
+            </lg>
+            <lg>
+               <l>And now you may think the right worſhipful Squire</l>
+               <l>was joyful his Siſter to ſee;</l>
+               <l>For he kiſt her and kiſt her, and ſwore a great oath.</l>
+               <l>thou art welcome, kind Siſter, to me.</l>
+            </lg>
+            <lg>
+               <l>To morrow when Maſs had been ſaid in the chappel</l>
+               <l>ſix tables were cover'd in the hall;</l>
+               <l>And in comes the 'Squire and makes a ſhort ſpeech,</l>
+               <l>it was, Neighbours you're welcome all.</l>
+            </lg>
+            <lg>
+               <l>But not a Man here ſhall taſte my <hi>March</hi>-beer</l>
+               <l>till a Chriſtmas carrol be ſung;</l>
+               <l>Then all clapt their hands, and they ſhouted and ſung</l>
+               <l>till the hall and the parlour did ring.</l>
+            </lg>
+            <lg>
+               <l>Now muſtards Braun, roaſt-beef and plumb-pies,</l>
+               <l>were ſet upon every table:</l>
+               <l>And noble <hi>George Gamwel</hi> ſaid, Eat and be merry,</l>
+               <l>and drink too as long as you're able.</l>
+            </lg>
+            <lg>
+               <l>When dinner was ended his Chaplain ſaid grace,</l>
+               <l>and be merry, my friends ſaid the 'Squire,</l>
+               <l>It rains and it blows, but call for more ale,</l>
+               <l>and lay ſome more wood on the fire.</l>
+            </lg>
+            <lg>
+               <l>And now call ye Little <hi>John</hi> hither to me,</l>
+               <l>for Little <hi>John</hi> is a fine Lad</l>
+               <l>At gambols and juggling, and twenty ſuch tricks,</l>
+               <l>as ſhall make you both merry and glad.</l>
+            </lg>
+            <lg>
+               <l>When Little <hi>John</hi> came to gambols they went,</l>
+               <l>both Gentlemen, Yeomen and Clown;</l>
+               <l>And what do you think? Why as true as I live,</l>
+               <l>bold <hi>Robin Hood</hi> put them all down.</l>
+            </lg>
+            <lg>
+               <l>And now you may think the right Worſhipful 'Squire</l>
+               <l>was joyful this ſight for to ſee,</l>
+               <l>For he ſaid, Couſin <hi>Robin,</hi> thou'ſt go no more home,</l>
+               <l>but tarry and dwell here with me.</l>
+            </lg>
+            <lg>
+               <l>Thou ſhalt have my land when I dye, and till then</l>
+               <l>thou ſhalt be the ſtaff of my Age.</l>
+               <l>Then grant me my boon dear Uncle, ſaid <hi>Robin,</hi>
+               </l>
+               <l>that little <hi>John</hi> may be my Page.</l>
+            </lg>
+            <lg>
+               <l>And he ſaid kind Couſin I grant thee thy boon,</l>
+               <l>with all my heart ſo let it be,</l>
+               <l>Then come hither, Little <hi>John,</hi> ſaid <hi>Robin Hood,</hi>
+               </l>
+               <l>come hither, my Page, unto me.</l>
+            </lg>
+            <lg>
+               <l>Go fetch me my Bow, my longeſt long Bow,</l>
+               <l>and broad arrows one two or three;</l>
+               <l>For when it is fair weather we'll into <hi>Sherw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od,</hi>
+               </l>
+               <l>ſome merry paſtime to ſee.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Robin Hood</hi> came into merry <hi>Sherw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi>
+               </l>
+               <l>he winded his bugle ſo clear;</l>
+               <pb n="361" facs="tcp:183106:2" rendition="simple:additions"/>
+               <l> And twice five and twenty good Yeomen and bold,</l>
+               <l>before <hi>Robin Hood</hi> did appear.</l>
+            </lg>
+            <lg>
+               <l>Where are your companions all? (ſaid <hi>Rob. Hood</hi>)</l>
+               <l>for ſtill I want forty and three:</l>
+               <l>Then ſaid a bold Yeoman, To yonder they ſtand,</l>
+               <l>all under a green wood tree.</l>
+            </lg>
+            <lg>
+               <l>As that word was ſpoke <hi>Clorinda</hi> came by,</l>
+               <l>the Queen of the Shepherds was ſhe:</l>
+               <l>And her gown was of Velvet as green as the graſs</l>
+               <l>and her buskin did reach to her knee.</l>
+            </lg>
+            <lg>
+               <l>Her gate it was graceful her Body was ſtraight,</l>
+               <l>and her countenance free from pride:</l>
+               <l>A bow in her hand, and quiver and arrows</l>
+               <l>hung dangling by her ſweet ſide.</l>
+            </lg>
+            <lg>
+               <l>Her eye-brows were black, ay and ſo was her hair,</l>
+               <l>and her skin was as ſmooth as glaſs,</l>
+               <l>Her viſage ſpoke wiſdom and modeſty too,</l>
+               <l>ſets with <hi>Robin Hood</hi> ſuch a Laſs.</l>
+            </lg>
+            <lg>
+               <l>Said <hi>Robin Hood,</hi> Lady fair, whither away,</l>
+               <l>oh whither, fair Lady, away?</l>
+               <l>And ſhe made him anſwer, to kill a fat Buck,</l>
+               <l>for to morrow is Titbury day.</l>
+            </lg>
+            <lg>
+               <l>Said <hi>Robin Hood,</hi> Lady fair, wander with me,</l>
+               <l>a little to yonder green bower,</l>
+               <l>There ſit down to reſt you, and you ſhall be ſure</l>
+               <l>of a brace or a leaſe in an hour</l>
+            </lg>
+            <lg>
+               <l>And as we were going towards the green bower,</l>
+               <l>two hundred good bucks we eſpy'd:</l>
+               <l>She chooſe out the fatteſt that was in the herd,</l>
+               <l>and ſhe ſhot him through ſide and ſide.</l>
+            </lg>
+            <lg>
+               <l>By the faith of my body, ſaid bold <hi>Robin Hood,</hi>
+               </l>
+               <l>I never ſaw Woman like thee,</l>
+               <l>And com'ſt thou from Eaſt, ay or com'ſt thou from Weſt</l>
+               <l>thou needſt not beg veniſon of me.</l>
+            </lg>
+            <lg>
+               <l>However along to my bower you ſhall go,</l>
+               <l>and taſte of a Forreſter's meat;</l>
+               <l>And when we came thither we found as good cheer,</l>
+               <l>as any Man needs for to eat.</l>
+            </lg>
+            <lg>
+               <l>For there was hot veniſon, and warden-pies cold,</l>
+               <l>cream clouted with honey-combs plenty,</l>
+               <l>And the Sarvitors they were beſide Little <hi>John,</hi>
+               </l>
+               <l>good Yeomen at leaſt four and twenty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Clorinda</hi> ſaid, Tell me your name gentle Sir?</l>
+               <l>and he ſaid, 'Tis bold <hi>Robin Hood;</hi>
+               </l>
+               <l>'Squire <hi>G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mwel</hi>'s mine Uncle, but all my delight</l>
+               <l>is to dwell in the merry <hi>Sherwood:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For 'tis a fine life, and 'tis void of all ſtrife,</l>
+               <l>So 'tis, Sir, <hi>Clorinda</hi> reply'd;</l>
+               <l>But oh, ſaid bold <hi>Robin,</hi> how ſweet would it be,</l>
+               <l>if <hi>Clorinda</hi> would be my Bride?</l>
+            </lg>
+            <lg>
+               <l>She bluſht at the motion, yet after a pauſe,</l>
+               <l>ſaid, Yes, Sir, and with all my heart,</l>
+               <l>Then let us ſend for a Prieſt<g ref="char:punc">▪</g> ſaid <hi>Robin Hood,</hi>
+               </l>
+               <l>and be merry before we do part.</l>
+            </lg>
+            <lg>
+               <l>But ſhe ſaid, It may not be ſo gentle Sir,</l>
+               <l>for I muſt be at <hi>Titbury</hi> feaſt:</l>
+               <l>And if <hi>Robin Hood</hi> will go thither with me,</l>
+               <l>I'll make him the moſt welcome Gueſt.</l>
+            </lg>
+            <lg>
+               <l>Said <hi>Robin Hood,</hi> Reach me that Buck, Little <hi>John,</hi>
+               </l>
+               <l>for I'll go along with my Dear;</l>
+               <l>bid my Yeomen kill ſix brace of bucks</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d meet me to morrow juſt here.</l>
+            </lg>
+            <lg>
+               <l>Before we had ridden five <hi>Staffordſhire</hi> miles,</l>
+               <l>eight Yeomen that were too bold,</l>
+               <l>Bid <hi>Robin Hood</hi> ſtand, and deliver his Buck,</l>
+               <l>a truer Tale never was told.</l>
+            </lg>
+            <lg>
+               <l>I will not faith, ſaid, bold <hi>Robin;</hi> come <hi>John,</hi>
+               </l>
+               <l>ſtand to me and we'll beat 'em all;</l>
+               <l>Then both drew their ſwords, and ſo cut 'em and ſlaſh't 'em</l>
+               <l>that five of them did fall.</l>
+            </lg>
+            <lg>
+               <l>The three that remain'd call'd to <hi>Robin</hi> for quarter,</l>
+               <l>and pitiful <hi>John</hi> begg'd their lives;</l>
+               <l>When <hi>John</hi>'s boon was granted, he gave them good counſel,</l>
+               <l>and ſo ſent them home to their Wives</l>
+            </lg>
+            <lg>
+               <l>This battle was fought near to <hi>Titbury</hi> Town,</l>
+               <l>when the bag pipes bated the bull:</l>
+               <l>I am King of the Fidlers, and ſware 'tis a truth,</l>
+               <l>and I call him that doubts it a Gull.</l>
+            </lg>
+            <lg>
+               <l>For I ſaw them fighting, and fidl'd the while,</l>
+               <l>and <hi>Clorinda</hi> ſung, Hey derry down:</l>
+               <l>The Bumpkins are beaten, put up thy ſword <hi>Bob,</hi>
+               </l>
+               <l>and now let's dance into the Town.</l>
+            </lg>
+            <lg>
+               <l>Before we came to it, we heard a ſtrange ſhouting,</l>
+               <l>and all that were in it look'd madly,</l>
+               <l>For ſome were a bull-back, ſome dancing a morris,</l>
+               <l>and ſome ſinging <hi>Arthur a Bradly.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And there we ſee <hi>Thomas</hi> our Iuſtices Clerk,</l>
+               <l>and <hi>Mary</hi> to whom he way kind:</l>
+               <l>For <hi>Tom</hi> rode before her, and call'd <hi>Mary</hi> Madam,</l>
+               <l>and kiſt her full ſweetly behind.</l>
+            </lg>
+            <lg>
+               <l>And ſo may your Worſhips, but we went to dinner,</l>
+               <l>with <hi>Thomas,</hi> and <hi>Mary,</hi> and <hi>Nan;</hi>
+               </l>
+               <l>They all drank a health to <hi>Clorinda,</hi> and told her,</l>
+               <l>bold <hi>Robin Hood</hi> was a fine Man.</l>
+            </lg>
+            <lg>
+               <l>When dinner was ended, Sir <hi>Roger</hi> the Parſon,</l>
+               <l>of <hi>Dubbridge</hi> was ſent for in haſte:</l>
+               <l>He brought his Maſs-book, and he had them take hands,</l>
+               <l>and he joyn'd them in marriage full faſt.</l>
+            </lg>
+            <lg>
+               <l>And then as bold <hi>Robin Hood,</hi> and his ſweet bride,</l>
+               <l>went hand in hand to the green bower</l>
+               <l>The birds ſung with pleaſure in merry <hi>Sherwood,</hi>
+               </l>
+               <l>and 'twas a moſt joyful hour.</l>
+            </lg>
+            <lg>
+               <l>And when <hi>Robin</hi> came in the ſight of the bower,</l>
+               <l>Where are my Yeomen? ſaid he.</l>
+               <l>And Little <hi>John</hi> anſwered, Lo yonder they ſtand,</l>
+               <l>all under the green wood tree.</l>
+            </lg>
+            <lg>
+               <l>Then Garland the brought her by two and by two,</l>
+               <l>and plac'd them at the bride's bed:</l>
+               <l>The Muſick ſtruck up and we all fell to dance,</l>
+               <l>till the Bride and the Groom were a bed.</l>
+            </lg>
+            <lg>
+               <l>And what they did there muſt be counſel to me,</l>
+               <l>becauſe they lay long the next day:</l>
+               <l>And I had haſte home but I got a good piece</l>
+               <l>of the bride-cake and ſo came a way.</l>
+            </lg>
+            <lg>
+               <l>Now out alas, I had forgotten to tell ye,</l>
+               <l>that marry'd they were with a ring:</l>
+               <l>And ſo will <hi>Nan Knight,</hi> or be buried a Maiden,</l>
+               <l>and now let us pray for the King.</l>
+            </lg>
+            <lg>
+               <l>That he may get Children and they may get more</l>
+               <l>to govern and do us ſome good,</l>
+               <l>And then I'll make Ballads in <hi>Rob. Hood</hi>'s bower</l>
+               <l>and ſing 'em in merry <hi>Sherwood.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed by and for</hi> W. O. <hi>and are to be ſold by the Bookſellers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
